@@ -5,6 +5,7 @@
 - 📫 How to reach me ... LinkedIn is 
 
 - ⚡ Fun fact: I have 3 kids and a wife and live in Denver, CO
+-I also edited this line in VSCode
 
 <!---
 joshuagsteger/joshuagsteger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
