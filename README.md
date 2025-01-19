@@ -2,7 +2,7 @@
 - 👀 I’m interested in helping advance data & digital capabilities to drive better decision making
 - 🌱 I’m currently learning python
 
-- 📫 How to reach me ... LinkedIn is 
+- 📫 How to reach me ... LinkedIn  http://linkedin.com/in/joshuagsteger is 
 
 - ⚡ Fun fact: I have 3 kids and a wife and live in Denver, CO
 -I also edited this line in VSCode
